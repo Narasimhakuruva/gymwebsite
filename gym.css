@@ -1,0 +1,395 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.gymlogo{
+    height: 60px;
+    width: auto;
+}
+#navbar1{
+    color: black;
+    font-weight: 500;
+
+}
+#navbar2{
+    color: black;
+    font-weight: 500;
+    
+}
+#navbar3{
+    color: black;
+    font-weight: 500;
+    
+}
+#navbar3{
+    color: black;
+    font-weight: 500;
+    
+}
+#navbar4{
+    color: black;
+    font-weight: 500;
+    
+}
+#navbar5{
+    color: black;
+    font-weight: 500;
+    
+}
+.fitness{
+    background-color: black;
+}
+.schedule-card{
+    background-color: light;
+}
+.heading1{
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+}
+.des1{
+    color: white;
+    font-size: 20px;
+    
+}
+.button{
+    height: 40px;
+    width: 100px;
+    border-radius: 18px;
+
+}
+.card{
+    background-color: transparent;
+    border-width: 0px;
+}
+
+
+.words{
+background-color:#f49541;
+
+
+}
+.synble{
+    color: white;
+    font-size: 70px;
+}
+.worddes{
+    color: white;
+    font-size: 50px;
+    font-weight: 700;
+
+}
+.by-words{
+    color: white;
+    font-size: 15px;
+
+}
+.images{
+    width: 200px;
+    height: 150PX;
+}
+.imagename{
+    font-size: 20px;
+    
+}
+.cardss {
+    background-color: transparent;
+    width: 210px;
+    padding: 5px;
+    text-align: center;
+}
+.imagename{
+    margin-top: 5px;
+}
+
+
+
+
+
+
+
+
+
+.ecommerce-footer-container{
+    background-color: #20282e;
+}
+
+.footer-bg-container{
+    background-color: #19232d;
+
+}
+.image-vr{
+    height: 100px;
+    width: 170px;
+}
+.icon-bg{
+    background-color: #202b36;
+    padding: 15px;
+    width: 50px;
+    border-radius: 40px;
+}
+.icon{
+    color: #959ead;
+    font-size: 20px;
+}
+.adderess{
+    font-size: 20px;
+    color: #959ead;
+}
+.line{
+    color: #959ead;
+    border-style: solid;
+    border-color: #959ead;
+}
+.footer-heading{
+    font-size: 25px;
+    color: #959ead;
+    font-weight: 600;
+}
+.footer-details{
+    font-size: 20px;
+    color: #959ead;
+    font-weight: 00;
+}
+
+
+
+
+.schedule-container{
+    background-color: light;
+
+    
+}
+.week-heading{
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+}
+.day-card{
+    background-color: white;
+    padding: 20px;
+    width: 350px;
+    border-radius: 10px;
+}
+
+
+.day-heading{
+    color: rgb(36, 33, 33);
+    font-size: 25px;
+    font-weight: 600;
+}
+.activity{
+    font-size: 20px;
+    font-weight: 600;
+    
+}
+.des{
+    font-size: 15px;
+    
+}
+.time{
+    font-size: 10px;
+
+}
+.day-card-container{
+    background-color: white;
+}
+
+
+
+.con-heading{
+    color: #0d171f;
+    font-size: 40px;
+    font-family: itlic;
+}
+.address-head{
+    color: #202b36;
+    font-size: 30px;
+    font-family: bree ;
+
+}
+.address{
+    color: #484a4c;
+}
+.carded{
+    background-color: white;
+}
+
+
+.schedule-container{
+    background-color: #959ead;
+    
+}
+.pricingcontainer{
+    background-color:  #f1c7a3;
+}
+
+
+
+.button1{
+    height: 50px;
+    width: 160px;
+    border-radius: 15px;
+    border-width: 2px;
+    background-color: transparent;
+    border-color: black;
+    color: black;
+    margin-bottom: 10px;
+
+}
+
+.line1{
+    border-radius: 3px;
+    border-width: bolder;
+    border-color: black;
+}
+
+
+.imageplan{
+    width: 410px;
+}
+.money2{
+    font-size: 20px;
+}
+.money{
+    font-size: 40px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bg{
+    background-color: #2f7c67;
+    font-family: "roboto", sans-serif;
+    height: 100vh;
+    background-size: cover;
+    margin-top: 0px;
+
+}
+
+.signup{
+    width: 430px;
+    height: 570px;
+    margin: auto;
+    background-color: white;
+    margin-top: 30px;
+    border-radius: 3px;
+
+
+}
+
+.login-box{
+    width: 430px;
+    height: 380px;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 9.4em;
+    background-color: white;
+    margin-top: 9.4em;
+
+
+}
+
+.classfim{
+    text-align: center;
+    padding-top: 17px;
+    font-weight: 1200;
+    font-size: 40px;
+
+}
+.classfim22{
+    text-align: center;
+}
+
+
+form{
+    width: 330px;
+    margin-left: 42px;
+}
+form input{
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px ;
+    outline: none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 18px;
+
+}
+
+input[type="submit"]{
+    width: 310px;
+    height: 35px;
+    margin-top: 18px;
+    border: none;
+    background-color: #2f7c67;
+    color: white;
+    font-size: 20px;
+    font-family: bolder;
+    margin-left: 18px;
+
+}
+
+.ap{
+    text-align: center;
+    padding-top: 1px;
+    font-size: 15px;
+
+}
+.para2{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+
+}
+.para2{
+    color: #b5e6f1;
+    font-size: 18px;
+    font-weight: bolder;
+
+}
+
+
+
+
+
+
+
+
+.update-heading{
+    font-family: initial sans-serif;
+    font-weight: 800;
+}
+
+.update-para{
+    font-style: oblique;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
